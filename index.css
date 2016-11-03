@@ -1,0 +1,18 @@
+ .letter{
+     color: red;
+ }
+ p{
+     background-color: white;
+     background-image: url("/images/e4b067b17a3e414083f7420351db272b.jpg");
+ }
+ .left{
+     left: 300px;
+     position: absolute;
+ }
+ .right{
+     right: 300px;
+     position: fixed;
+ }
+ footer{
+     position: static;
+ }
